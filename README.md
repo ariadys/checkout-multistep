@@ -1,5 +1,3 @@
-# jakmalltest
-
 ## Project setup
 ```
 npm install
